@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="TSpin_ver1_pcb_panelcut.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.9651515"
+     inkscape:cx="151.2954"
+     inkscape:cy="75.10287"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ff0303;stroke-width:0.05;stroke-dasharray:none"
+       id="rect111"
+       width="13.95"
+       height="13.95"
+       x="10.025"
+       y="30.025" />
+    <rect
+       style="fill:none;stroke:#ff0303;stroke-width:0.05;stroke-dasharray:none"
+       id="rect111-1"
+       width="13.95"
+       height="13.95"
+       x="31.025"
+       y="30.025" />
+    <rect
+       style="fill:none;stroke:#ff0303;stroke-width:0.05;stroke-dasharray:none"
+       id="rect111-1-7"
+       width="13.95"
+       height="13.95"
+       x="31.025"
+       y="9.0249996" />
+    <rect
+       style="fill:none;stroke:#ff0303;stroke-width:0.05;stroke-dasharray:none"
+       id="rect111-1-4"
+       width="13.95"
+       height="13.95"
+       x="52.025002"
+       y="30.025" />
+    <ellipse
+       style="fill:none;stroke:#ff0303;stroke-width:0.0499999;stroke-dasharray:none"
+       id="path1085"
+       cx="27.5"
+       cy="37"
+       rx="1.4750001"
+       ry="1.475" />
+    <ellipse
+       style="fill:none;stroke:#ff0303;stroke-width:0.0499999;stroke-dasharray:none"
+       id="path1085-4"
+       cx="48.5"
+       cy="37"
+       rx="1.4750001"
+       ry="1.475" />
+    <path
+       id="rect1308"
+       style="fill:none;stroke:#ff0303;stroke-width:0.0499998;stroke-dasharray:none"
+       d="M 28.524874 6.5251831 L 28.524874 27.524935 L 7.5251221 27.524935 L 7.5251221 46.475199 L 29.628682 46.475199 L 29.681392 46.475199 L 49.525142 46.475199 L 49.575269 46.475199 L 68.47489 46.475199 L 68.47489 27.524935 L 49.575269 27.524935 L 49.525142 27.524935 L 47.475138 27.524935 L 47.475138 6.5251831 L 28.524874 6.5251831 z " />
+  </g>
+</svg>
