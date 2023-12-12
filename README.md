@@ -12,7 +12,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 ## Specifications:
   - Fully laser-cutted enclosure
   - Option for 24mm or 30mm pushbutton holes
-  - 2 layers for the side and top plates, allowing custom art placement
+  - 2 layers for all the plates, allowing custom art placement everywhere!
   - Neutrik 24mm hole on the back plate
   - 24mm holes on the side plates
   - M4 screws for attaching the upper and lower plates to pillar nuts
