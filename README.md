@@ -21,7 +21,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 
 ## Additional notes:
   - Fitted for 3mm Acrylic/Wood sheets
-  - The provided PCB files extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
+  - The provided PCB files were extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
   - 4cm-long pillar nuts may be used to attach the top and bottom plates, holding the enclosure together  
 
 ## Images:
