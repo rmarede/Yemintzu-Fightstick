@@ -17,12 +17,12 @@ Feel free to contact me if you would like a version with different hole dimensio
   - 24mm holes on the side plates
   - M4 screws for attaching the upper and lower plates to pillar nuts
   - M3 screws for attaching rubber feet to the lower panel, and to hold the 2-layered side plates
-  - Optional: Lower SVG file with mounting holes for Raspberry Pico
+  - Mounting holes for Raspberry Pico
 
 ## Additional notes:
   - Fitted for 3mm Acrylic/Wood sheets
   - The provided PCB files were extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
-  - 4cm-long pillar nuts may be used to attach the top and bottom plates, holding the enclosure together  
+  - 4cm-long M4 pillar nuts may be used to attach the top and bottom plates, holding the enclosure together  
 
 ## Images:
 
