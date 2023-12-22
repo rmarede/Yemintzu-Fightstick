@@ -26,16 +26,11 @@ Feel free to contact me if you would like a version with different hole dimensio
 
 ## Images:
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fphtq2m8zwt7c1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D57f19b38460535c5fbd79327b6244c86ce93fde6)
+![alt text](https://i.postimg.cc/ryRpvZps/IMG-20231221-144235.jpg)
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fffd0b0dzwt7c1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D6486436c79e618570fca6116f004e6652bd62950)
+![alt text](https://i.postimg.cc/Hkds8p98/IMG-20231221-144719.jpg)
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F3zhopcqzwt7c1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dbb7f75240138497b95471dd1d1bf669d51f9fb56)
+![alt text](https://i.postimg.cc/xTrdYGkR/IMG-20231222-110407.jpg)
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F2xne4fvzwt7c1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dc4b68d36c30d36471d78faf86a1df4c1f851fc72)
+![alt text](https://i.postimg.cc/3JgxwymH/IMG-20231222-110455.jpg)
 
-![alt text]()
-
-![alt text]()
-
-![alt text]()
