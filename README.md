@@ -30,7 +30,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 
 ![alt text](https://i.postimg.cc/Hkds8p98/IMG-20231221-144719.jpg)
 
-![alt text](https://i.postimg.cc/xTrdYGkR/IMG-20231222-110407.jpg)
+![alt text](https://cdn.discordapp.com/attachments/396095706881851402/1264299780448714903/image.jpg?ex=669d5e6d&is=669c0ced&hm=165da875169f48ead81f1f947d64db831ab134b09872efe55ac66f7e8030e98e&)
 
-![alt text](https://i.postimg.cc/3JgxwymH/IMG-20231222-110455.jpg)
+![alt text](https://cdn.discordapp.com/attachments/396095706881851402/1264299780876796026/2.jpg?ex=669d5e6d&is=669c0ced&hm=a30ca2e4178434d74add2add07b964b1a180bdb628c0117d36a15e7baee93196&)
 
