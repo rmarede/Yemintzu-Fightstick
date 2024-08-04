@@ -30,7 +30,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 
 ![alt text](https://i.postimg.cc/Hkds8p98/IMG-20231221-144719.jpg)
 
-![alt text](https://ibb.co/dJ4HGDQ)
+![alt text](https://i.ibb.co/YTBVpht/1.jpg)
 
-![alt text](https://ibb.co/TYDTtQ5)
+![alt text](https://i.ibb.co/CmptQjF/2.jpg)
 
